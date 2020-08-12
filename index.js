@@ -18,6 +18,7 @@ if (string.toLowerCase(string) === string){
   return cantHear
 } else if (string.toUpperCase(string) === string){
   return answer;
+} else if (string === "I love you, Grandma."){
+  return loveYou;
 }
-
 }
